@@ -1,4 +1,4 @@
-# Product Catalog Service
+# Product Catalog Service v1
 
 When this service is run the output should be similar to the following
 
