@@ -10,7 +10,6 @@ package main
 // on how to pin tooling dependencies to a go.mod file.
 // This ensures that all systems use the same version of tools in addition to regular dependencies.
 
-import (
-	_ "google.golang.org/grpc/cmd/protoc-gen-go-grpc"
+import (	
 	_ "google.golang.org/protobuf/cmd/protoc-gen-go"
 )
