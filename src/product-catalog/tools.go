@@ -1,10 +1,9 @@
 // Copyright The OpenTelemetry Authors
 // SPDX-License-Identifier: Apache-2.0
 
-//go:build tools
-// +build tools
 
-package tools
+
+package main
 
 // This file follows the recommendation at
 // https://go.dev/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module
